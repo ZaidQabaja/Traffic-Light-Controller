@@ -224,6 +224,7 @@ The project demo video is available here:
 ```text
 Traffic-Light-Controller-Logic-Design/
 ├── README.md
+├── LICENSE
 ├── images/
 │   ├── state_diagram.png
 │   ├── unused_states_recovery.png
@@ -237,7 +238,6 @@ Traffic-Light-Controller-Logic-Design/
 └── demo/
     └── traffic_light_demo.mp4
 ```
-
 ---
 
 ## Tools Used
@@ -254,6 +254,13 @@ Traffic-Light-Controller-Logic-Design/
 Course: Digital Systems Design  
 Project Date: May 2025  
 Project Type: Logic Design Course Project
+
+---
+
+## License
+
+This project is licensed under the MIT License.  
+See the `LICENSE` file for more details.
 
 ---
 
