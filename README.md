@@ -129,7 +129,7 @@ TC = C + AB
 
 The following image shows the Karnaugh maps used to minimize the flip-flop input equations.
 
-![Karnaugh Maps Minimization](images/kmap_minimization.png)
+![Karnaugh Maps Minimization](images/Kmap_minimization.png)
 
 ---
 
